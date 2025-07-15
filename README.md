@@ -1,9 +1,10 @@
 
-## ✌ Olá Meu nome Joao
+## ✌ Olá Meu nome João Vitor
 
-### Esse repositório e um desafio
+### Desafio Prático
 
 ===================
 
-Desafio Git e GitHub para prática e ficar ainda melhor 
+Desafio prático para aprender e aprimorar o uso de Git e GitHub, com exercícios que ajudam a entender comandos, versionamento e colaboração em projetos.
+
 
